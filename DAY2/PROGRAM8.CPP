@@ -12,7 +12,7 @@ while(n!=0)
 rev = rev*10  + n%10 ;                  
 n/= 10;                            // updating the number
 }
-if (rev == n1)                    //n1 is used for comparing the original no
+if (rev == n1)                    //n1 is used for comparing the original number
 cout<<"\nThe number is a PALINDROME";             //using n1 for displaying original no
 else
 cout<<"\nThe number is NOT a PALINDROME";
