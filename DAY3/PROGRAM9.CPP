@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
- int i , n ,c=0;                               // c is a counter variable whicgh counts the no of diviors
+ int i , n ,c=0;                                // c is a counter variable whicgh counts the no of diviors
  cout<<"Enter the number to be cheaked\n";
  cin>> n;
  for(i=1;i<=(n/2);i++)                 // here I have looped only uptill n/2 times because number itself will be always a factor 

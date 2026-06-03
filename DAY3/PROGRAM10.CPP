@@ -4,7 +4,7 @@
 using namespace std;
 int main()
 {
- int i , n1 , n2 ,c,a ;                               // c is a counter variable whicgh counts the no of diviors
+ int i , n1 , n2 ,c,a ;                                // c is a counter variable whicgh counts the no of diviors
  cout<<"Enter the lower limit of range\n";            // taking lower limit
  cin>>n1;
  cout<<"Enter the upper limit of range\n";            // taking upper limit

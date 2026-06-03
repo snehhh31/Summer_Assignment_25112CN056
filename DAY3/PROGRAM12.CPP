@@ -6,7 +6,7 @@ int main()
    int a, b, max;
    cout << "Enter two numbers\n";
    cin >> a >> b;
-   max = (a > b) ? a : b;                        //assining maximum
+   max = (a > b) ? a : b;                       //assining maximum
    while (true)                                  // while true runs an infinte loop 
     {
         if (max % a == 0 && max % b == 0)        //cheaking max is divisble by a as well as b 

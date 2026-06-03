@@ -8,7 +8,7 @@ int main()
 {int a,b,i,min,hcf;
  cout<<"Enter two numbers\n";
  cin>>a>>b;
- min = (a>b)?b:a;                    // assinging a min for loop limit
+ min = (a>b)?b:a;                   // assinging a min for loop limit
  for(i=1;i<=min;i++)
  {                     
   if(a%i==0)                          //if i is the factor of a
