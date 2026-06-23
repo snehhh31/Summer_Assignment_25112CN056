@@ -1,4 +1,4 @@
-// Q91 Write a program to Check anagram strings.
+// Q91 Write a program to Check anagram  strings.
 #include <iostream>
 using namespace std;
 

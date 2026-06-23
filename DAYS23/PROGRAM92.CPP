@@ -1,4 +1,4 @@
-// Q92 Write a program to Find maximum occurring character.
+// Q92 Write a program to Find maximum occurring  character.
 #include <iostream>
 using namespace std;
 

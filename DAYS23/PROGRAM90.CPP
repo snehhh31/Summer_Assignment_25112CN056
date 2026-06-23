@@ -1,4 +1,4 @@
-// Q90 Write a program to Find first repeating character.
+// Q90 Write a program to Find first  repeating character.
 #include <iostream>
 using namespace std;
 

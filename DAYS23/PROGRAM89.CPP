@@ -1,4 +1,4 @@
-// Q89 Write a program to Find first non-repeating character.
+// Q89 Write a program to Find first  non-repeating character.
 #include <iostream>
 using namespace std;
 
